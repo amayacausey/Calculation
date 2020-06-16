@@ -19,8 +19,7 @@ public class Calculation {
         System.out.println("Output:"+(num5*num5));
         sc.nextLine();
 
-        System.out.println("This program will get two different string input from user and print them in the same line." +
-                "\nplease input a string. ");
+        System.out.println("This program will get two different string input from user and print them in the same line.");
 
         System.out.println("First input string");
         String inputString = sc.nextLine();
